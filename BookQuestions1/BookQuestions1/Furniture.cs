@@ -15,17 +15,18 @@ namespace BookQuestions
             if (input == "P")
             {
                 Price += 100;
-                Console.Write(Convert.ToInt32(Price));
+                Console.Write(Price.ToString("C"));
             }
             else if (input == "O")
             {
                 Price += 225;
-                Console.Write(Convert.ToInt32(Price));
+                Console.Write(Price.ToString("C"));
             }
             else if (input == "M")
             {
                 Price += 310;
-                Console.Write(Convert.ToInt32(Price));
+                Console.Write(Price.ToString("C"));
+                
             }
             else
             {
