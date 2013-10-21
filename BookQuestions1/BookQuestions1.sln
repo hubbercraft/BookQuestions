@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual C# Express 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookQuestions1", "BookQuestions1\BookQuestions1.csproj", "{BC09C81C-B660-4658-B6AA-07218502CB90}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckZips.cs", "CheckZips.cs\CheckZips.cs.csproj", "{40CCEFF1-B7AB-4B94-84F6-ACB352AB14C9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -13,6 +15,10 @@ Global
 		{BC09C81C-B660-4658-B6AA-07218502CB90}.Debug|x86.Build.0 = Debug|x86
 		{BC09C81C-B660-4658-B6AA-07218502CB90}.Release|x86.ActiveCfg = Release|x86
 		{BC09C81C-B660-4658-B6AA-07218502CB90}.Release|x86.Build.0 = Release|x86
+		{40CCEFF1-B7AB-4B94-84F6-ACB352AB14C9}.Debug|x86.ActiveCfg = Debug|x86
+		{40CCEFF1-B7AB-4B94-84F6-ACB352AB14C9}.Debug|x86.Build.0 = Debug|x86
+		{40CCEFF1-B7AB-4B94-84F6-ACB352AB14C9}.Release|x86.ActiveCfg = Release|x86
+		{40CCEFF1-B7AB-4B94-84F6-ACB352AB14C9}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
