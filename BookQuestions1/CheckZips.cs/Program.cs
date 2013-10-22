@@ -30,11 +30,8 @@ namespace BookQuestions
                     Console.WriteLine("Yes, we deliever to you, Monty Phython.");
                     break;
                 }
-                else
-                {
-                    Console.WriteLine("Sorry babe, but we don't deliver to you.");
-                    break;
-                }
+                else   
+                    Console.WriteLine("Sorry beb, but we don't deliver to you.");              
             }
         }
     }
