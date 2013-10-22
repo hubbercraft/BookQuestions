@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookQuestions1", "BookQuest
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckZips.cs", "CheckZips.cs\CheckZips.cs.csproj", "{40CCEFF1-B7AB-4B94-84F6-ACB352AB14C9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatAWhile.cs", "ChatAWhile.cs\ChatAWhile.cs.csproj", "{FC397E51-C112-41BC-8123-CCA8B526EF16}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -19,6 +21,10 @@ Global
 		{40CCEFF1-B7AB-4B94-84F6-ACB352AB14C9}.Debug|x86.Build.0 = Debug|x86
 		{40CCEFF1-B7AB-4B94-84F6-ACB352AB14C9}.Release|x86.ActiveCfg = Release|x86
 		{40CCEFF1-B7AB-4B94-84F6-ACB352AB14C9}.Release|x86.Build.0 = Release|x86
+		{FC397E51-C112-41BC-8123-CCA8B526EF16}.Debug|x86.ActiveCfg = Debug|x86
+		{FC397E51-C112-41BC-8123-CCA8B526EF16}.Debug|x86.Build.0 = Debug|x86
+		{FC397E51-C112-41BC-8123-CCA8B526EF16}.Release|x86.ActiveCfg = Release|x86
+		{FC397E51-C112-41BC-8123-CCA8B526EF16}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
