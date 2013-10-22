@@ -21,10 +21,21 @@ namespace BookQuestions
             ZipCodes[8] = 12353;
             ZipCodes[9] = 12354;
 
-            Console.WriteLine("WHAT is your zipcode?");
+            Console.WriteLine("WAT is your zipcode?");
             string input = Console.ReadLine();
-            for (int i = 0; i < ZipCodes; i++) ;
-
+            for (int i = 0; i < ZipCodes.Length; i++)
+            {
+                if(input == ZipCodes[i].ToString())
+                {
+                    Console.WriteLine("Yes, we deliever to you, Monty Phython.");
+                    break;
+                }
+                else
+                {
+                    Console.WriteLine("Sorry babe, but we don't deliver to you.");
+                    break;
+                }
+            }
         }
     }
 }
