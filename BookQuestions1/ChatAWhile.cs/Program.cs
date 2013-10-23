@@ -18,7 +18,7 @@ namespace ChatAWhile.cs
 
             Console.WriteLine("What is your area code?");
             Area = Console.ReadLine();
-            Console.WriteLine("What was the length of you call in minutes?");
+            Console.WriteLine("What was the length of your call in minutes?");
             minutes = Console.ReadLine();
 
             for (int i = 0; i < AreaCodes.Length; i++) 
@@ -26,7 +26,7 @@ namespace ChatAWhile.cs
                 if (Area == AreaCodes[i].ToString())
                 {
                     price = Rates[i] * Convert.ToInt32(minutes);
-                    Console.WriteLine(price);
+                    Console.WriteLine(price.ToString("C"));
                 }
             }
         }
