@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monograms.cs", "Monograms.c
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exponent.cs", "Exponent.cs\Exponent.cs.csproj", "{C0D1A121-0563-425A-A425-32BF09DC5ABB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Area.cs", "Area.cs\Area.cs.csproj", "{11E5F9DF-FE4B-4304-BCD1-381618151D74}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -43,6 +45,10 @@ Global
 		{C0D1A121-0563-425A-A425-32BF09DC5ABB}.Debug|x86.Build.0 = Debug|x86
 		{C0D1A121-0563-425A-A425-32BF09DC5ABB}.Release|x86.ActiveCfg = Release|x86
 		{C0D1A121-0563-425A-A425-32BF09DC5ABB}.Release|x86.Build.0 = Release|x86
+		{11E5F9DF-FE4B-4304-BCD1-381618151D74}.Debug|x86.ActiveCfg = Debug|x86
+		{11E5F9DF-FE4B-4304-BCD1-381618151D74}.Debug|x86.Build.0 = Debug|x86
+		{11E5F9DF-FE4B-4304-BCD1-381618151D74}.Release|x86.ActiveCfg = Release|x86
+		{11E5F9DF-FE4B-4304-BCD1-381618151D74}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
