@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatAWhile.cs", "ChatAWhile
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Commission.cs", "Commission.cs\Commission.cs.csproj", "{5EFEF571-F737-466A-85B8-34F06681B5BA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monograms.cs", "Monograms.cs\Monograms.cs.csproj", "{76E56D85-19D7-46CA-A719-B183107008DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -31,6 +33,10 @@ Global
 		{5EFEF571-F737-466A-85B8-34F06681B5BA}.Debug|x86.Build.0 = Debug|x86
 		{5EFEF571-F737-466A-85B8-34F06681B5BA}.Release|x86.ActiveCfg = Release|x86
 		{5EFEF571-F737-466A-85B8-34F06681B5BA}.Release|x86.Build.0 = Release|x86
+		{76E56D85-19D7-46CA-A719-B183107008DA}.Debug|x86.ActiveCfg = Debug|x86
+		{76E56D85-19D7-46CA-A719-B183107008DA}.Debug|x86.Build.0 = Debug|x86
+		{76E56D85-19D7-46CA-A719-B183107008DA}.Release|x86.ActiveCfg = Release|x86
+		{76E56D85-19D7-46CA-A719-B183107008DA}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
