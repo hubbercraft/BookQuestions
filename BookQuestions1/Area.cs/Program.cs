@@ -7,8 +7,7 @@ namespace Area.cs
 {
     class Program
     {
-        static void Main(string[] args)
-        {
+
             public static void Main()
         {
             int width = 7;
@@ -31,4 +30,4 @@ namespace Area.cs
         }
         }
     }
-}
+
